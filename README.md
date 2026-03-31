@@ -28,3 +28,6 @@ The data used to create this dashboard was extracted from the Customer purchase 
 - Line chart comparing completed and cancelled orders over time
 - Bar chart of revenue by product category
 - Bar chart of revenue accumulated over time (MoM)
+
+
+#### **Detailed Report:** https://github.com/melzhen/Electronic-Sales-Dashboard/blob/main/Electronic%20Sales%20Dashboard.pdf 
